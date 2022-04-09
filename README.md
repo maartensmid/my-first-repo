@@ -16,7 +16,7 @@ a block
 of code
 ```
 
-[linke soep](www.baidu.com)
+[linke soep](https://www.baidu.com)
 *[] karl-moustache.jpg)
 
 nano README.md
